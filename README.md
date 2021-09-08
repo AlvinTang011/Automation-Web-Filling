@@ -6,9 +6,10 @@ readme file created by Tang Kai Wen, Alvin
 # Prerequisite
 Python
 
-# Logs
+
+# Information
 The current auto.exe will fill up the form with a randomly generated temparature, a template NRIC "S8462840I", and a template email "tester@gmail.com"
-In order to change it, open it in an editor and change the commented portion
+In order to change it, open auto.py in an editor and change the commented portion
 
 # Note
 For all testing and purposes, this is only a fun challenge for myself to understand how to use python to interact with a browser to automate things
